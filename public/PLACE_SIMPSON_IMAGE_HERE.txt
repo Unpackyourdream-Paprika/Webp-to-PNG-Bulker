@@ -1,0 +1,2 @@
+Please save the Simpson character image from the screenshot as "simpson.webp" in this directory.
+The image will be displayed at the top of the web application with the text "Simpson WebP Bulker Cropper PNG Exporter". 
